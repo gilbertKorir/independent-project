@@ -122,12 +122,12 @@ section::after {
   clear: both;
 }
 .pn{
-  margin-top: 3opx;
+  margin-top: 30px;
   text-decoration: underline solid red 5px;
 }
 .box1{
   border-radius: 25px;
-  border: 1px solid brown;
+  border: 1px solid rgb(95, 25, 25);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -146,7 +146,7 @@ section::after {
 }
 .box2{
   border-radius: 25px;
-  border: 1px solid brown;
+  border: 1px solid rgb(95, 25, 25);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -165,7 +165,7 @@ section::after {
 }
 .box3{
   border-radius: 25px;
-  border: 1px solid brown;
+  border: 1px solid rgb(95, 25, 25);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -184,7 +184,7 @@ section::after {
 }
 .corner1 {
   border-radius: 25px;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
   height: 350px;  
@@ -197,7 +197,7 @@ section::after {
 }
 .corner2 {
   border-radius: 25px;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
   height: 350px;  
@@ -209,7 +209,7 @@ section::after {
 }
 .corner3 {
   border-radius: 25px;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
   height: 350px;  
@@ -221,7 +221,7 @@ section::after {
 }
 .corner4 {
   border-radius: 25px;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
   height: 350px;  
@@ -234,7 +234,7 @@ section::after {
 }
 .corner5 {
   border-radius: 25px;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
   height: 350px;  
@@ -246,7 +246,7 @@ section::after {
 }
 .corner6 {
   border-radius: 25px;
-  border: 1px solid grey;
+  border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
   height: 350px;  
@@ -264,7 +264,7 @@ section::after {
 .class5{
   height: 700px;
   width: auto;
-  background-color: orange;
+  background-color: #F6B400;
 }
 .img2{
   float: right;
@@ -309,18 +309,26 @@ section::after {
   margin-top: 40px;
   margin-right: 40px;
 }
+.bur2{
+    float: left;
+    width: 30%;
+    height: 180px; 
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
 #myinput{
   height: 40px;
   width: auto;
   color: black;
   background-color: rgb(241, 247, 247);
   border: 1px solid grey;
-  margin-top: 40px;
+  margin-top: 20px;
 
 }
 #mybtn{
   display: inline;
-  background-color: orange;
+  background-color: #F6B400;
   height: 40px;
   border: none;
   margin-top: 40px;
@@ -340,6 +348,11 @@ section::after {
 }
 .footer-content{
 text-align: left;
+margin-top: 30px;
+}
+.soc{
+  align-items: center;
+  margin-left: 20px;
 }
 .foote p{
 margin-left: 0px;
