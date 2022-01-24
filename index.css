@@ -347,10 +347,12 @@ text-align: left;
 margin-top: 30px;
 }
 .footer-content a{
-  margin-left: 40px;
-  float:none
+  display:inline-block;
+  align-items: center;
+  justify-content: center;
+
 }
-.foote p{
+.footer p{
 margin-left: 15px;
 text-align: left;
 }
