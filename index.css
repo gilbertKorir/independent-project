@@ -14,6 +14,14 @@ body {
 .wr{
   background-color: white;
 }
+.bgc{
+  background-image: -webkit-linear-gradient(150deg, #F6B400 44%, white 35%);
+  min-height: 700px;
+}
+.scnd{
+  background-color: rgb(241, 247, 247);
+  height: 500px;
+}
 .wrapper {
   width: calc(50% + px);
   height: 100%;
@@ -127,11 +135,11 @@ section::after {
 }
 .box1{
   border-radius: 25px;
-  border: 1px solid brown;
+  border: 1px solid rgb(230, 193, 193);
   padding: 20px; 
   width: 300px;
   height: 300px;  
-  margin-top: 20px;
+  margin-top: 120px;
   margin-left: 150px;
   margin-right: 10px;
   text-align: center;
@@ -146,7 +154,7 @@ section::after {
 }
 .box2{
   border-radius: 25px;
-  border: 1px solid brown;
+  border: 1px solid rgb(230, 193, 193);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -165,7 +173,7 @@ section::after {
 }
 .box3{
   border-radius: 25px;
-  border: 1px solid brown;
+  border: 1px solid rgb(230, 193, 193);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -300,6 +308,9 @@ section::after {
   width: auto;
   background-color: rgb(241, 247, 247);
 }
+.buger1{
+  height: 100px;
+}
 .map{
   float: left;
   text-align: left;
@@ -338,10 +349,9 @@ section::after {
   height: 50px;
   width: auto;
 }
-.footer-content{
-text-align: left;
+.footer-content a{
 }
-.foote p{
+.footer p{
 margin-left: 0px;
 text-align: left;
 }
