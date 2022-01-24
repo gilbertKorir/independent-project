@@ -14,15 +14,9 @@ body {
 .wr{
   background-color: white;
 }
-.wrapper {
-  width: calc(50% + px);
-  height: 100%;
-  background-color: orange;
-  border-left: 100px solid white;
-  border-bottom: 400px solid transparent;
-  border-right: 200px;
-  margin-left: 500px;
-  margin-top: 0px;
+.bgc{
+  background-image: -webkit-linear-gradient(150deg, #F6B400 52%, white 35%);
+  min-height: 950px;
 }
 .header {
   overflow: hidden;
@@ -95,7 +89,8 @@ nav {
   margin-top: 60px;
 }
 .btn{
-  margin-top: 70px;
+  margin-top: 90px;
+  margin-left: 70px;
 }
 .button{
   cursor:pointer;
@@ -131,7 +126,7 @@ section::after {
   padding: 20px; 
   width: 300px;
   height: 300px;  
-  margin-top: 20px;
+  margin-top: 50px;
   margin-left: 150px;
   margin-right: 10px;
   text-align: center;
