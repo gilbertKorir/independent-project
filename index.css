@@ -183,7 +183,7 @@ section::after {
   border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
-  height: 350px;  
+  height: auto;  
   margin-top: 20px;
   margin-left: 160px;
   margin-right: 10px;
@@ -196,7 +196,7 @@ section::after {
   border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
-  height: 350px;  
+  height: auto;  
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
@@ -208,7 +208,7 @@ section::after {
   border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
-  height: 350px;  
+  height: auto;
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
@@ -220,7 +220,7 @@ section::after {
   border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
-  height: 350px;  
+  height: auto;
   margin-top: 20px;
   margin-left: 160px;
   margin-right: 10px;
@@ -233,7 +233,7 @@ section::after {
   border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
-  height: 350px;  
+  height: auto;
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
@@ -245,12 +245,23 @@ section::after {
   border: 1px solid lightgrey;
   padding: 20px; 
   width: 300px;
-  height: 350px;  
+  height: auto;
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
   display: inline-block;
   margin-bottom: 50px;
+}
+.con1{
+  height: 40px;
+  width: 60px;
+  background: rgb(231, 245, 245);
+  border-radius: 10px;
+  float: right;
+  margin-left: 130px;
+}
+.flexcon{
+  display: flex;
 }
 .class4{
   height: 600px;
