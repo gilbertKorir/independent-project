@@ -10,7 +10,7 @@ This is week one project done to evaluate on the whole week's content on web dev
 ---
 ## Contributors
 
-| Syntax | Description |
+| Syntax | Description | Description|
 | ----------- | ----------- |
 | Gilbert Korir | Nairobi | Male  |
 | Jane mercy|   | Kiambu  | Female|
