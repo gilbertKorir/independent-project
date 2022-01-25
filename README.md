@@ -19,3 +19,4 @@ This is week one project done to evaluate on the whole week's content on web dev
 | Odak| Nairobi  | Male  |
 | Samuel Hinga| Nairobi| Male  |
 
+![cod](img/mentor.jpeg)
