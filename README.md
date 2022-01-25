@@ -23,7 +23,7 @@ This is week one project done to evaluate on the whole week's content on web dev
 ---
 ## License and Copyright
 ---
-© Gilbert c korir, Moringa school software development.
+###©Gilbert c korir, Moringa school software development.
 
 Licensed under [MIT LICENSE](LICENSE)
 
