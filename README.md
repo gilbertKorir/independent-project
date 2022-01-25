@@ -20,4 +20,8 @@ This is week one project done to evaluate on the whole week's content on web dev
 | Samuel Hinga| Nairobi| Male  |
 
 ![cod](img/mentor.jpeg)
+## License and Copyright
+(c) Gilbert c korir, Moringa school software development.
+
+Licensed under MIT. [MIT LICENSE](LICENSE)
 
