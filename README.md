@@ -1,2 +1,2 @@
 # Week one independent project
-Moringa school independent project
+This is week one project done to evaluate on the whole week's content on web development.
