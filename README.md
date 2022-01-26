@@ -55,5 +55,5 @@ SOFTWARE.
 ## Authors Info
 
 
-Linked - [Jared K](https://www.linkedin.com/in/albert-byrone-664811144/)
+Linked - [Jared K](https://www.linkedin.com/public-profile/settings)
 
