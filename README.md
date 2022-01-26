@@ -4,7 +4,7 @@ This is week one project done to evaluate on the whole week's content on web dev
 ---
 ## Description
 <p>This is  a website that advirtises the Burgers. Discover fresh, homemade burgers, sides, milkshakes & more at our restaurants. Order takeout or delivery!.</p>
-![cod](img/SeekPng5.png)
+![cod](https://github.com/100jared/independent-project/blob/main/img/SeekPng%205.png)
 
 ### Technology Used
 1. HTML - HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn. [HTML](https://www.w3schools.com/html/)
