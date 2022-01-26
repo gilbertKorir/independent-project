@@ -55,5 +55,5 @@ SOFTWARE.
 ## Authors Info
 
 
-Linked - [Jared K](https://www.linkedin.com/public-profile/settings)
+Linkedin - [Jared K](https://www.linkedin.com/public-profile/settings)
 
