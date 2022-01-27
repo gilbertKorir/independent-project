@@ -23,7 +23,7 @@
 * View it with a computer,phone,tablet or an Ipad
 
 * Get connected to an internet.
-
+* [Live link](https://100jared.github.io/independent-project/)
 
 [Back to the top](#Project_1)
 
