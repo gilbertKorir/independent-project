@@ -12,24 +12,16 @@ This is week one project done to evaluate on the whole week's content on web dev
 
 ---
 ![cod](img/cod.jpeg)
-
-## Technical mentors
 ---
-|Name | County | Gender|
-| ----------- | ----------- |----------|
-| Albert Byrone | Nairobi | Male  |
-| Rose Oketch  | Nairobi  | Female|
-| Odak| Nairobi  | Male  |
-| Samuel Hinga| Nairobi| Male  |
-
-![cod](img/mentor.jpeg)
+Github pages live link.
+---
+[live link](https://100jared.github.io/independent-project/)
 ---
 ## License and Copyright
 ---
 ### ©Gilbert c korir, Moringa school software development.
 
 Licensed under [MIT LICENSE](LICENSE)
-MIT License
 
 Copyright (c) [2022] [Gilbert Korir]
 
@@ -53,6 +45,7 @@ SOFTWARE.
 
 ---
 ## Authors Info
+Name: Gilbert Korir.
 
+Linkedin - [Gilbert K](https://www.linkedin.com/public-profile/settings)
 
-Linkedin - [Jared K](https://www.linkedin.com/public-profile/settings)
