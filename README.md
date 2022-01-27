@@ -1,25 +1,47 @@
-# Week one independent project
+# Project_1
 
-This is week one project done to evaluate on the whole week's content on web development.
----
+##### Developed by Gilbert Korir.
+### Moringa school week one independent project.
+
+## Table of Content
+
++ [Description](#description)
++ [Preview Device](#Preview)
++ [Technology Used](#technology-used)
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#author-Info)
+
 ## Description
+---
 <p>This is  a website that advirtises the Burgers. Discover fresh, homemade burgers, sides, milkshakes & more at our restaurants. Order takeout or delivery!.</p>
 
-### Technology Used
-1. HTML - HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn. [HTML](https://www.w3schools.com/html/)
-2. CSS - CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. [CSS](https://www.w3schools.com/css/)
-3. GIT - GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. [Git](https://docs.github.com/en/get-started/quickstart/)
+## Preview Device
 
 ---
-![cod](img/cod.jpeg)
+
+* View it with a computer,phone,tablet or an Ipad
+
+* Get connected to an internet.
+
+
+[Back to the top](#Project_1)
+
+## Technology Used
 ---
-Github pages live link.
+
+* HTML - HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn. [HTML](https://www.w3schools.com/html/)
+* CSS - CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. [CSS](https://www.w3schools.com/css/)
+* GIT - GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. [Git](https://docs.github.com/en/get-started/quickstart/)
+
+## Reference
+* Moringa school canvas.
+* w3schools, HTML and CSS.
+
+[Back to the top](#Project_1)
+
+## Licence
 ---
-[live link](https://100jared.github.io/independent-project/)
----
-## License and Copyright
----
-### ©Gilbert c korir, Moringa school software development.
 
 Licensed under [MIT LICENSE](LICENSE)
 
@@ -43,11 +65,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+[Go Back to the top](#Project_1)
+
+## Author's Info
 ---
-## Authors Info
 Name: Gilbert Korir.
 
 github - [Gilbert K](https://github.com/100jared)
 
 Linkedin - [Gilbert K](https://www.linkedin.com/public-profile/settings)
-
