@@ -13,6 +13,8 @@ This is week one project done to evaluate on the whole week's content on web dev
 ---
 ![cod](img/cod.jpeg)
 ---
+Github pages live link.
+---
 [live link](https://100jared.github.io/independent-project/)
 ---
 ## License and Copyright
@@ -44,7 +46,7 @@ SOFTWARE.
 
 ---
 ## Authors Info
-Gilbert Korir.
+Name: Gilbert Korir.
 
 Linkedin - [Gilbert K](https://www.linkedin.com/public-profile/settings)
 
