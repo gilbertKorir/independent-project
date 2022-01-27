@@ -22,7 +22,6 @@ Github pages live link.
 ### ©Gilbert c korir, Moringa school software development.
 
 Licensed under [MIT LICENSE](LICENSE)
-MIT License
 
 Copyright (c) [2022] [Gilbert Korir]
 
