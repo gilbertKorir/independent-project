@@ -12,17 +12,8 @@ This is week one project done to evaluate on the whole week's content on web dev
 
 ---
 ![cod](img/cod.jpeg)
-
-## Technical mentors
 ---
-|Name | County | Gender|
-| ----------- | ----------- |----------|
-| Albert Byrone | Nairobi | Male  |
-| Rose Oketch  | Nairobi  | Female|
-| Odak| Nairobi  | Male  |
-| Samuel Hinga| Nairobi| Male  |
-
-![cod](img/mentor.jpeg)
+[live link](https://100jared.github.io/independent-project/)
 ---
 ## License and Copyright
 ---
@@ -53,7 +44,7 @@ SOFTWARE.
 
 ---
 ## Authors Info
+Gilbert Korir.
 
-
-Linkedin - [Jared K](https://www.linkedin.com/public-profile/settings)
+Linkedin - [Gilbert K](https://www.linkedin.com/public-profile/settings)
 
