@@ -47,5 +47,7 @@ SOFTWARE.
 ## Authors Info
 Name: Gilbert Korir.
 
+github - [Gilbert K](https://github.com/100jared)
+
 Linkedin - [Gilbert K](https://www.linkedin.com/public-profile/settings)
 
