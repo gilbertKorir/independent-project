@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+    <title>Quic check</title>
+</head>
+<body>
+    <h1>Computer Science Class Quiz:</h1>
+    <div class="sub"><h2>Challenge Yourself Now!</h2></div>
+    <h3>Make sure you check your answer in each question!</h3>
+    <form name="quiz" id="quiz">
+        <p>1. A _____ converts all the source code into machine code, creating an executable file.</p>
+        <input type="radio" name="question1" value="linker"> A linker <br>
+        <input type="radio" name="question1" value="compiler"> B compiler <br>
+        <input type="radio" name="question1" value="Assembler"> C Assembler <br>
+        <br>
+        <p>2. To connect a web page to an oracle database, the ______ language is suggested.</p>
+        <input type="radio" name="question2" value="Java"> A Java <br>
+        <input type="radio" name="question2" value="PHP"> B PHP <br>
+        <input type="radio" name="question2" value="ASP"> C ASP <br>
+        <br>
+        <p>3. The rules of a language are called its _______.</p>
+        <input type="radio" name="question3" value="Code"> A Code <br>
+        <input type="radio" name="question3" value="Structure"> B Structure <br>
+        <input type="radio" name="question3" value="Syntax"> C Syntax <br>
+        <br>
+        <p>4. __________ is Microsoft's latest entry into the programming arena.</p>
+        <input type="radio" name="question4" value="Pascal"> A Pascal <br>
+        <input type="radio" name="question4" value="Visual Basic"> B Visual Basic <br>
+        <input type="radio" name="question4" value=".NET"> C .NET <br>
+        <br>
+        <p>5. Fourth generation languages typically allow the developer to work inside of a(n) ________.</p>
+        <input type="radio" name="question5" value="Editor"> A Editor <br>
+        <input type="radio" name="question5" value="assembler"> B assembler <br>
+        <input type="radio" name="question5" value="IDE"> C IDE <br>
+        <input type="button" name="" value="Submit Now" id="button" onclick="check(), checkQuiz()">
+    </form>
+    <p id="result"></p>
+    <script src="index.js"></script>
+</body>
+</html>
