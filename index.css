@@ -3,6 +3,7 @@ html{
   border: 3px solid black;
   margin-left: 10px;
   margin-right: 10px;
+  flex-wrap: wrap;
 }
 
 body { 
@@ -282,6 +283,8 @@ section::after {
   height: 600px;
   width: auto;
   background-color: rgb(241, 247, 247);
+  display: flex;
+  flex-direction: row;
 }
 .class5{
   height: 700px;
@@ -297,7 +300,7 @@ section::after {
   margin-top: 50px;
 }
 .img3{
-  float:right;
+  float: right;
   display: inline;
   height: 500px;
   width: 250px;
@@ -308,11 +311,46 @@ section::after {
 }
 .img4{
   float: right;
-  height: 400px;
-  width: 55%;
+  height: 370px;
   margin-right: 40px;
-  margin-top: 60px;
+  margin-top: 20px;
+  margin-left: 40px;
   display: inline;
+  width: 400px;
+}
+/* .container {
+  padding: 100px 30px;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 900px;
+} */
+
+.image-stack::after {
+  content: ' ';
+  display: table;
+  clear: both;
+}
+
+.image-stack__item--top {
+    float: left;
+    width: 75%;
+    margin-right: -100%;
+    padding-top: 20%; 
+    position: relative;
+    z-index: 1;
+}
+
+.image-stack__item--bottom {
+    float: right;
+    width: 90%;
+    padding-top: -10px;
+}
+
+.image-stack__item .image-stack__item--top{
+  width: 100%;
+}
+.image-stack__item .image-stack__item--bottom img{
+  width: 100%;
 }
 .rad{
   margin-top: 70px;
@@ -363,7 +401,14 @@ section::after {
   height: 50px;
   width: auto;
 }
-.footer-content a{
+footer{
+  display: flex;
+  flex-direction: row;
+}
+.social{
+  display: inline;
+  margin-left: 250px;
+  padding: 20px;
 }
 .footer p{
 margin-left: 0px;
