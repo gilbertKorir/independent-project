@@ -3,6 +3,7 @@ html{
   border: 3px solid black;
   margin-left: 10px;
   margin-right: 10px;
+  flex-wrap: wrap;
 }
 
 body { 
@@ -15,8 +16,22 @@ body {
   background-color: white;
 }
 .bgc{
-  background-image: -webkit-linear-gradient(150deg, #F6B400 52%, white 35%);
-  min-height: 950px;
+  background-image: -webkit-linear-gradient(150deg, #F6B400 44%, white 35%);
+  min-height: 700px;
+}
+.scnd{
+  background-color: rgb(241, 247, 247);
+  height: 500px;
+}
+.wrapper {
+  width: calc(50% + px);
+  height: 100%;
+  background-color: orange;
+  border-left: 100px solid white;
+  border-bottom: 400px solid transparent;
+  border-right: 200px;
+  margin-left: 500px;
+  margin-top: 0px;
 }
 .header {
   overflow: hidden;
@@ -32,7 +47,7 @@ body {
   text-decoration: none;
   font-size: 18px; 
   line-height: 25px;
-  margin-left: 29px;
+  margin-left: 35px;
 
 }
 .bur{
@@ -90,8 +105,7 @@ nav {
   margin-top: 60px;
 }
 .btn{
-  margin-top: 90px;
-  margin-left: 70px;
+  margin-top: 70px;
 }
 .button{
   cursor:pointer;
@@ -118,16 +132,16 @@ section::after {
   clear: both;
 }
 .pn{
-  margin-top: 30px;
+  margin-top: 3opx;
   text-decoration: underline solid red 5px;
 }
 .box1{
   border-radius: 25px;
-  border: 1px solid rgb(95, 25, 25);
+  border: 1px solid rgb(230, 193, 193);
   padding: 20px; 
   width: 300px;
   height: 300px;  
-  margin-top: 50px;
+  margin-top: 120px;
   margin-left: 150px;
   margin-right: 10px;
   text-align: center;
@@ -142,7 +156,7 @@ section::after {
 }
 .box2{
   border-radius: 25px;
-  border: 1px solid rgb(95, 25, 25);
+  border: 1px solid rgb(230, 193, 193);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -161,7 +175,7 @@ section::after {
 }
 .box3{
   border-radius: 25px;
-  border: 1px solid rgb(95, 25, 25);
+  border: 1px solid rgb(230, 193, 193);
   padding: 20px; 
   width: 300px;
   height: 300px;  
@@ -180,7 +194,7 @@ section::after {
 }
 .corner1 {
   border-radius: 25px;
-  border: 1px solid lightgrey;
+  border: 1px solid grey;
   padding: 20px; 
   width: 300px;
   height: auto;  
@@ -191,9 +205,22 @@ section::after {
   display: inline-block;
   margin-bottom: 30px;
 }
+.con1{
+  height: 40px;
+  width: 70px;
+  float: right;
+  background-color: rgb(193, 211, 211);
+  border-radius: 10px;
+}
+.cn1{
+  height: 50px;
+  width: 30px;
+  display: flex;
+  background-color: blue;
+}
 .corner2 {
   border-radius: 25px;
-  border: 1px solid lightgrey;
+  border: 1px solid grey;
   padding: 20px; 
   width: 300px;
   height: auto;  
@@ -205,10 +232,10 @@ section::after {
 }
 .corner3 {
   border-radius: 25px;
-  border: 1px solid lightgrey;
+  border: 1px solid grey;
   padding: 20px; 
   width: 300px;
-  height: auto;
+  height: auto;  
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
@@ -217,10 +244,10 @@ section::after {
 }
 .corner4 {
   border-radius: 25px;
-  border: 1px solid lightgrey;
+  border: 1px solid grey;
   padding: 20px; 
   width: 300px;
-  height: auto;
+  height: auto;  
   margin-top: 20px;
   margin-left: 160px;
   margin-right: 10px;
@@ -230,10 +257,10 @@ section::after {
 }
 .corner5 {
   border-radius: 25px;
-  border: 1px solid lightgrey;
+  border: 1px solid grey;
   padding: 20px; 
   width: 300px;
-  height: auto;
+  height: auto;  
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
@@ -242,36 +269,27 @@ section::after {
 }
 .corner6 {
   border-radius: 25px;
-  border: 1px solid lightgrey;
+  border: 1px solid grey;
   padding: 20px; 
   width: 300px;
-  height: auto;
+  height: auto;  
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
   display: inline-block;
   margin-bottom: 50px;
 }
-.con1{
-  height: 40px;
-  width: 60px;
-  background: rgb(231, 245, 245);
-  border-radius: 10px;
-  float: right;
-  margin-left: 130px;
-}
-.flexcon{
-  display: flex;
-}
 .class4{
   height: 600px;
   width: auto;
   background-color: rgb(241, 247, 247);
+  display: flex;
+  flex-direction: row;
 }
 .class5{
   height: 700px;
   width: auto;
-  background-color: #F6B400;
+  background-color: orange;
 }
 .img2{
   float: right;
@@ -282,6 +300,7 @@ section::after {
   margin-top: 50px;
 }
 .img3{
+  float: right;
   display: inline;
   height: 500px;
   width: 250px;
@@ -292,11 +311,46 @@ section::after {
 }
 .img4{
   float: right;
-  height: 400px;
-  width: 55%;
+  height: 370px;
   margin-right: 40px;
-  margin-top: 60px;
+  margin-top: 20px;
+  margin-left: 40px;
   display: inline;
+  width: 400px;
+}
+/* .container {
+  padding: 100px 30px;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 900px;
+} */
+
+.image-stack::after {
+  content: ' ';
+  display: table;
+  clear: both;
+}
+
+.image-stack__item--top {
+    float: left;
+    width: 75%;
+    margin-right: -100%;
+    padding-top: 20%; 
+    position: relative;
+    z-index: 1;
+}
+
+.image-stack__item--bottom {
+    float: right;
+    width: 90%;
+    padding-top: -10px;
+}
+
+.image-stack__item .image-stack__item--top{
+  width: 100%;
+}
+.image-stack__item .image-stack__item--bottom img{
+  width: 100%;
 }
 .rad{
   margin-top: 70px;
@@ -305,6 +359,9 @@ section::after {
   height: 200px;
   width: auto;
   background-color: rgb(241, 247, 247);
+}
+.buger1{
+  height: 100px;
 }
 .map{
   float: left;
@@ -315,26 +372,18 @@ section::after {
   margin-top: 40px;
   margin-right: 40px;
 }
-.bur2{
-    float: left;
-    width: 30%;
-    height: 180px; 
-    padding: 20px;
-    margin-left: 30px;
-    margin-top: 40px;
-}
 #myinput{
   height: 40px;
   width: auto;
   color: black;
   background-color: rgb(241, 247, 247);
   border: 1px solid grey;
-  margin-top: 20px;
+  margin-top: 40px;
 
 }
 #mybtn{
   display: inline;
-  background-color: #F6B400;
+  background-color: orange;
   height: 40px;
   border: none;
   margin-top: 40px;
@@ -352,18 +401,17 @@ section::after {
   height: 50px;
   width: auto;
 }
-.footer-content{
-text-align: left;
-margin-top: 30px;
+footer{
+  display: flex;
+  flex-direction: row;
 }
-.footer-content a{
-  display:inline-block;
-  align-items: center;
-  justify-content: center;
-
+.social{
+  display: inline;
+  margin-left: 250px;
+  padding: 20px;
 }
 .footer p{
-margin-left: 15px;
+margin-left: 0px;
 text-align: left;
 }
 
