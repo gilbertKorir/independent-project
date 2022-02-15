@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project_1
 
 ##### Developed by Gilbert Korir.
